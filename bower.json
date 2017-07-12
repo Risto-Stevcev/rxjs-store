@@ -1,0 +1,23 @@
+{
+  "name": "rxjs-store",
+  "main": "rxjs-store.js",
+  "homepage": "https://github.com/Risto-Stevcev/rxjs-store",
+  "authors": [
+    "Risto Stevcev <risto1@gmail.com>"
+  ],
+  "description": "A very simple wrapper that provides redux-like functionality using RxJS observables",
+  "keywords": [
+    "rxjs",
+    "redux",
+    "store",
+    "observable"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
